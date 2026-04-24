@@ -5,7 +5,7 @@
 }
 
 html, body {
-  background-color: black;
+  background-color: radial-gradient(circle_at_top,#1b1b3a,#0a0a12);
   margin: 0;
   padding: 0;
   overflow-x: hidden;
