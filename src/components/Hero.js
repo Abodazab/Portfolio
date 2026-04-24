@@ -50,7 +50,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="min-h-[100dvh] pt-24 flex items-center bg-[radial-gradient(circle_at_top,#1b1b3a,#0a0a12)] text-white"
+      className="min-h-[100ddvh] pt-24 flex items-center bg-[radial-gradient(circle_at_top,#1b1b3a,#0a0a12)] text-white"
     >
       <div className="w-[90%] max-w-[1250px] mx-auto flex flex-col md:flex-row items-center justify-between gap-12 md:gap-16 text-center md:text-left">
 

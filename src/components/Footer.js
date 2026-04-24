@@ -32,7 +32,7 @@ export default function FooterCTA() {
   };
 
   return (
-    <div className="relative">
+    <div className=" ">
 
       <footer className="relative z-10 pt-28 md:pt-32 pb-8 text-white
         bg-[radial-gradient(circle_at_top,#1b1b3a,#0a0a12)]">

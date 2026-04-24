@@ -67,7 +67,7 @@ export default function PortfolioTabs() {
 
   return (
     <section
-      className="bg-[radial-gradient(circle_at_bottom,#1b1b3a,#0a0a12)] pt-32 pb-48 text-white"
+      className=" relative overflow-hidden bg-[radial-gradient(circle_at_bottom,#1b1b3a,#0a0a12)] pt-32 pb-48 text-white" 
       id="portfolio"
     >
       <div className="max-w-7xl mx-auto px-4">
