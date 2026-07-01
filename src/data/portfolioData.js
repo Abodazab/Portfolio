@@ -15,7 +15,7 @@ export const personalInfo = {
   shortName: "Portfolio",
   title: "Computer Engineering Graduate in 2025, FUE University",
   location: "Cairo, Egypt",
-  email: "a2002azab@gmail.com",
+  email: "abdelrahman.alaa.azab@gmail.com",
   heroImage: "/profile.jpeg", // ✅ works with public
 }
 
@@ -177,8 +177,8 @@ export const contactFields = [
 export const socialLinks = [
   {
     label: 'Email',
-    value: 'a2002azab@gmail.com',
-    href: 'mailto:a2002azab@gmail.com',
+    value: 'abdelrahman.alaa.azab@gmail.com',
+    href: 'mailto:abdelrahman.alaa.azab@gmail.com',
   },
   {
     label: 'GitHub',
